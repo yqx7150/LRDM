@@ -1,0 +1,12 @@
+
+# @package _group_
+data_root_dir: /home/b109/code/xx/DiffIR-master/DiffIR-master/DiffIR-inpainting/data/celeba-hq-dataset/
+out_root_dir: /home/b109/code/xx/DiffIR-master/DiffIR-master/DiffIR-inpainting/experiments/
+tb_dir: /home/b109/code/xx/DiffIR-master/DiffIR-master/DiffIR-inpainting/tb_logs/
+pretrained_models: /home/b109/code/xx/DiffIR-master/DiffIR-master/DiffIR-inpainting/
+# @package _group_
+#data_root_dir: /home/b109/code/xx/DiffIR-master/DiffIR-master/DiffIR-inpainting/data/celeba-hq-dataset/
+#out_root_dir: /home/b109/code/xx/DiffIR-master/DiffIR-master/DiffIR-inpainting/experiments/
+#tb_dir: /home/b109/code/xx/DiffIR-master/DiffIR-master/DiffIR-inpainting/tb_logs/
+#pretrained_models: /home/b109/code/xx/DiffIR-master/DiffIR-master/DiffIR-inpainting/
+

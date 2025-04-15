@@ -1,0 +1,5 @@
+# @package _group_
+data_root_dir: /home/b109/Desktop/XX
+out_root_dir: /home/b109/Desktop/XX/inpainting/experiments/
+tb_dir: /home/b109/Desktop/XX/inpainting/tb_logs/
+pretrained_models: /home/b109/Desktop/XX/inpainting/
